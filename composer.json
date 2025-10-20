@@ -1,4 +1,5 @@
 {
+    "description": "um exemplo de implementação de namespaces em PHP",
     "license": "LGPL-3.0-or-later",
     "require-dev": {
         "phpunit/phpunit": "^11.5"
